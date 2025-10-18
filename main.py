@@ -1,4 +1,5 @@
 def main():
+    """Entry point: print a greeting for the repository demo."""
     print("Hello from rag-playground!")
 
 
